@@ -1,5 +1,5 @@
 const defaultConfig = {
-	username: "Excalith",
+	username: "kyro",
 	theme: {
 		backgroundColor: "#121317",
 		windowColor: "#1e212b",
@@ -17,7 +17,7 @@ const defaultConfig = {
 		orange: "#ff8800"
 	},
 	wallpaper: {
-		url: "",
+		url: "https://i.redd.it/80lmd34d9anz.jpg",
 		easing: "ease-in-out",
 		fadeIn: true,
 		blur: true
@@ -62,7 +62,7 @@ const defaultConfig = {
 		hoverColor: "violet"
 	},
 	search: {
-		default: "https://google.com/search?q=",
+		default: "https://duckduckgo.com/?q=",
 		target: "_self",
 		shortcutRegex: "([A-Za-z0-9]+) (.*)",
 		shortcuts: [
@@ -112,7 +112,7 @@ const defaultConfig = {
 				links: [
 					{
 						name: "Portfolio",
-						url: "https://cancellek.com",
+						url: "https://kyro.dog",
 						icon: "mdi:web"
 					},
 					{
