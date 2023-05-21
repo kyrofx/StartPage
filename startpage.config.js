@@ -236,7 +236,7 @@ const defaultConfig = {
 					{
 						name: "Linux Ricers",
 						url: "https://reddit.com/r/unixporn/",
-						icon: "ph:arch linux"
+						icon: "ph:arch-linux"
 					}
 				]
 			},
