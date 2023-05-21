@@ -194,22 +194,22 @@ const defaultConfig = {
 					{
 						name: "Blue",
 						url: "https://b.bcp.org",
-						icon: "uil:polygon"
+						icon: "tabler:app-window"
 					},
 					{
 						name: "Canvas",
 						url: "https://bcp.instructure.com",
-						icon: "mdi:currency-sign"
+						icon: "simple-icons:instructure"
 					},
 					{
 						name: "VHL",
 						url: "https://vhlcentral.com",
-						icon: "ph:toilet-paper-bold"
+						icon: "ph:notebook"
 					},
 					{
 						name: "254 Hours",
 						url: "https://hours.team254.com",
-						icon: "tabler:hand-rock"
+						icon: "ph:clock"
 					}
 				]
 			},
@@ -221,22 +221,22 @@ const defaultConfig = {
 					{
 						name: "Odysee",
 						url: "https://odysee.com/",
-						icon: "material-symbols:science"
+						icon: "simple-icons:odysee"
 					},
 					{
 						name: "YouTube",
 						url: "youtube.com",
-						icon: "mdi:reddit"
+						icon: "simple-icons:youtube"
 					},
 					{
 						name: "LofiATC",
 						url: "https://lofiatc.com?icao=KSFO",
-						icon: "simple-icons:nasa"
+						icon: "ph:air-traffic-control"
 					},
 					{
 						name: "Linux Ricers",
 						url: "https://reddit.com/r/unixporn/",
-						icon: "mdi:black-mesa"
+						icon: "ph:arch linux"
 					}
 				]
 			},
