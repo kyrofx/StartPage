@@ -126,8 +126,8 @@ const defaultConfig = {
 						icon: "simple-icons:openai"
 					},
 					{
-						name: "OCI",
-						url: "https://www.oracle.com/cloud/",
+						name: "ShortIO",
+						url: "https://short.io",
 						icon: "simple-icons:oracle"
 					}
 				]
@@ -187,55 +187,55 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Gaming",
+				title: "Bell",
 				color: "cyan",
 				align: "left",
 				links: [
 					{
-						name: "Polygon",
-						url: "https://polygon.com",
+						name: "Blue",
+						url: "https://b.bcp.org",
 						icon: "uil:polygon"
 					},
 					{
-						name: "IGN",
-						url: "https://ign.com",
+						name: "Canvas",
+						url: "https://bcp.instructure.com",
 						icon: "mdi:currency-sign"
 					},
 					{
-						name: "RPS",
-						url: "https://rockpapershotgun.com/",
+						name: "VHL",
+						url: "https://vhlcentral.com",
 						icon: "ph:toilet-paper-bold"
 					},
 					{
-						name: "80lv",
-						url: "https://80.lv/",
+						name: "254 Hours",
+						url: "https://hours.team254.com",
 						icon: "tabler:hand-rock"
 					}
 				]
 			},
 			{
-				title: "Science",
+				title: "Funny",
 				color: "blue",
 				align: "left",
 				links: [
 					{
-						name: "PopSci",
-						url: "https://popsci.com/",
+						name: "Odysee",
+						url: "https://odysee.com/",
 						icon: "material-symbols:science"
 					},
 					{
-						name: "Space",
-						url: "fa6-solid:user-astronaut",
+						name: "YouTube",
+						url: "youtube.com",
 						icon: "mdi:reddit"
 					},
 					{
-						name: "NASA",
-						url: "https://blogs.nasa.gov/",
+						name: "LofiATC",
+						url: "https://lofiatc.com?icao=KSFO",
 						icon: "simple-icons:nasa"
 					},
 					{
-						name: "ESA",
-						url: "https://blogs.esa.int/",
+						name: "Linux Ricers",
+						url: "https://reddit.com/r/unixporn/",
 						icon: "mdi:black-mesa"
 					}
 				]
